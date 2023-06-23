@@ -1,5 +1,6 @@
 body{
-    background-color: blue;
+    background-color:black;
+    color: aqua;
 }
 img{
 width: 200px;
@@ -8,7 +9,7 @@ display: flex;
 justify-content: center;
 }
 .types {
-    background-color: green;
+    
     display: flex;
     justify-content: center;
     flex-direction: row;
@@ -22,7 +23,15 @@ justify-content: center;
 .thirdplace2{
     display: none;
 }
-
+.Traps{
+display: none;
+}
+.Death{
+    display: none;
+}
+.winning{
+    display: none;
+}
 
 
 
