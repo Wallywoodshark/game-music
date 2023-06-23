@@ -1,0 +1,31 @@
+body{
+    background-color: blue;
+}
+img{
+width: 200px;
+display: flex;
+
+justify-content: center;
+}
+.types {
+    background-color: green;
+    display: flex;
+    justify-content: center;
+    flex-direction: row;
+}
+.secondPlace {
+    display: none;
+}
+.thirdplace1{
+    display: none;
+}
+.thirdplace2{
+    display: none;
+}
+
+
+
+
+
+
+
